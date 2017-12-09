@@ -12,3 +12,6 @@ Pitfalls
 
 Programming Language
 1. Advanced Bash-Scripting Guide: http://www.tldp.org/LDP/abs/html/index.html
+
+Network
+1. Linux Stateless Firewall: https://strongarm.io/blog/linux-stateless-firewall/
