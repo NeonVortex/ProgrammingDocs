@@ -15,3 +15,6 @@ Programming Language
 
 Network
 1. Linux Stateless Firewall: https://strongarm.io/blog/linux-stateless-firewall/
+
+Java
+1. Annotation Processing: http://hannesdorfmann.com/annotation-processing/annotationprocessing101
