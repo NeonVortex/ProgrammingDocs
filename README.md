@@ -18,3 +18,6 @@ Network
 
 Java
 1. Annotation Processing: http://hannesdorfmann.com/annotation-processing/annotationprocessing101
+
+Git
+1. A successful Git branching model: http://nvie.com/posts/a-successful-git-branching-model/
